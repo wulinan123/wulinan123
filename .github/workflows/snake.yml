@@ -23,7 +23,7 @@ jobs:
     steps:
       # Generate a snake game from GitHub contribution graph
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -34,7 +34,7 @@ jobs:
           
       # Push the generated files to the output branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
