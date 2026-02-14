@@ -37,6 +37,24 @@ I'm a student at Beijing Institute of Technology (BIT), passionate about signal 
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/wulinan123/wulinan123/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+## 📈 Yearly Dynamics
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wulinan123&theme=react-dark&hide_border=true&area=true)
+  
+  ![Yearly Commits](https://ghchart.rshah.org/2E9FFF/wulinan123)
+  
+</div>
+
 ## 🎯 Current Focus
 
 - 📡 Studying **SAR Imaging** algorithms and techniques
