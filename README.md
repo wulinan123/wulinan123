@@ -25,35 +25,6 @@ I'm a student at Beijing Institute of Technology (BIT), passionate about signal 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wulinan123&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wulinan123&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wulinan123&theme=radical&hide_border=true)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/wulinan123/wulinan123/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-## 📈 Yearly Dynamics
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wulinan123&theme=react-dark&hide_border=true&area=true)
-  
-  ![Yearly Commits](https://ghchart.rshah.org/2E9FFF/wulinan123)
-  
-</div>
 
 ## 🎯 Current Focus
 
